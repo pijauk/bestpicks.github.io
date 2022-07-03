@@ -1,34 +1,26 @@
-Font Awesome Free License
--------------------------
+Copyright © 2009 ParaType Ltd.
+with Reserved Names "PT Sans" and "ParaType".
 
-Font Awesome Free is free, open source, and GPL friendly. You can use it for
-commercial projects, open source projects, or really almost whatever you want.
-Full Font Awesome Free license: https://fontawesome.com/license/free.
+FONT LICENSE
 
-# Icons: CC BY 4.0 License (https://creativecommons.org/licenses/by/4.0/)
-In the Font Awesome Free download, the CC BY 4.0 license applies to all icons
-packaged as SVG and JS file types.
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining a copy of the font software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the font software, subject to the following conditions:
 
-# Fonts: SIL OFL 1.1 License (https://scripts.sil.org/OFL)
-In the Font Awesome Free download, the SIL OFL license applies to all icons
-packaged as web and desktop font files.
+1) Neither the font software nor any of its individual components, in original or modified versions, may be sold by itself.
 
-# Code: MIT License (https://opensource.org/licenses/MIT)
-In the Font Awesome Free download, the MIT license applies to all non-font and
-non-icon files.
+2) Original or modified versions of the font software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.
 
-# Attribution
-Attribution is required by MIT, SIL OFL, and CC BY licenses. Downloaded Font
-Awesome Free files already contain embedded comments with sufficient
-attribution, so you shouldn't need to do anything additional when using these
-files normally.
+3) No modified version of the font software may use the Reserved Name(s) or combinations of Reserved Names with other words unless explicit written permission is granted by the ParaType. This restriction only applies to the primary font name as presented to the users.
 
-We've kept attribution comments terse, so we ask that you do not actively work
-to remove them from files, especially code. They're a great way for folks to
-learn about Font Awesome.
+4) The name of ParaType or the author(s) of the font software shall not be used to promote, endorse or advertise any modified version, except to acknowledge the contribution(s) of ParaType and the author(s) or with explicit written permission of ParaType.
 
-# Brand Icons
-All brand icons are trademarks of their respective owners. The use of these
-trademarks does not indicate endorsement of the trademark holder by Font
-Awesome, nor vice versa. **Please do not use brand logos for any purpose except
-to represent the company, product, or service to which they refer.**
+5) The font software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.
+
+TERMINATION & TERRITORY
+This license has no limits on time and territory, but it becomes null and void if any of the above conditions are not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL PARATYPE BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.
+
+ParaType Ltd
+http://www.paratype.ru

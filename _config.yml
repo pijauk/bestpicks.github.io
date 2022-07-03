@@ -1,71 +1,32 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+title: "Blog Title"
+author: "Blog Author"
+description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
 
-# Site language
-lang: en-US
+# Layout
 
-# Site title
-title: "Scriptor"
+show_excerpts: true        # show article excerpts on the home page
+show_frame: true           # adds a gray frame to the site
+show_sidebar: false        # show a sidebar instead of the usual header
+minimal: false             # use a dark header
 
-# A description of your site for meta tag, search engine results.
-description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers"
+# Menu
 
-# The subpath of your site, e.g. /blog, for generating urls.
-baseurl: ""
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "index.html"}
+  - {file: "README.md"}
 
-# The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://scriptor-jekyll.netlify.com"
+external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
+  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
-# Favicon
-favicon: images/favicon.png
+comments:
+#  disqus_shortname: ""    # see https://disqus.com/
+#  isso_domain: ""         # see https://posativ.org/isso/
 
-# Google Analytics id, e.g. "UA-NNNNNNNN-N"
-google_analytics: ""
-
-# Site navigation - each item must have a title and a url.
-navigation:
-  - text: Home
-    url: /
-  - text: About
-    url: /about/
-  - text: Style Guide
-    url: /style-guide/
-  - text: Tags
-    url: /tags/
-  - text: Download
-    url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
-
-# The shortname for your Disqus site to enable comments.
-disqus: justgoodthemes
-
-# Colors
-accent_color: '#2d72d9'
-
-# Site footer
-footer:
-  content: "&copy; Scriptor all rights reserved. Theme by [JustGoodThemes](https://www.justgoodthemes.com)."
-  has_social: true
-
-# Plugins
 plugins:
-  - jekyll-paginate
-
-# http://jekyllrb.com/docs/pagination/
-paginate: 3
-paginate_path: '/page:num/'
-
-
-# Permalinks
-permalink: /:title
-
-# Conversion
-markdown: kramdown
-
-# Sass
-sass:
-  sass_dir: _sass
-  style: compressed
+ - jekyll-feed

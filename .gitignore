@@ -1,17 +1,7 @@
-*.swp
-
-# Ruby Gem
-*.gem
-.bundle
-Gemfile.lock
-vendor/bundle
-
-# macOS
 .DS_Store
-
-# Jekyll generated files
+.bundle
 .jekyll-cache
-.jekyll-metadata
 .sass-cache
-_asset_bundler_cache
+Gemfile.lock
 _site
+*.gem
