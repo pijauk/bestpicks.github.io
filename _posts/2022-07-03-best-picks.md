@@ -1,64 +1,24 @@
 ---
-title:  "Best Picks"
-mathjax: true
+title: "Best Gaming Mouse 2022"
 layout: post
-categories: media
 ---
+## 1. SteelSeries Rival 5
+#### Best Gaming Mouse
 
-![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
+![SteelSeries Rival 5](https://kainos-img.dgn.lt/photos2_25_119062736/img.jpg)
 
+Our top honor goes to the SteelSeries Rival 5 for being impressively capable and stunningly affordable. This pick doesn’t leave much else to be desired with its $60 price point and versatility. Impressively, SteelSeries actually increased the number of buttons available on the Rival 5 over those found on the Rival 600. You get your usual assortment, plus a third thumb button situated near the front of the mouse as well as a two-way, flickable button above the Back and Forward buttons. This makes it a great combo of an average gaming mouse and MMO or MOBA option.
 
-## MathJax
+The SteelSeries Rival 5 follows the trend of gaming mice shedding weight, as it’s slightly cut back from the Rival 600. Part of that weight loss may come from the omission of a depth sensor, but the Rival 5’s TrueMove Air optical sensor still provides solid tracking. Being a wired option also helps contribute to its lightweight. An added perk is the considerable RGB lighting on board with a zone at the scroll wheel, a zone in the SteelSeries logo on the palm rest, and two RGB strips on each side of the palm rest each with four independent lighting zones.
 
-You can enable MathJax by setting `mathjax: true` on a page or globally in the `_config.yml`. Some examples:
+## 2. SteelSeries Rival 3
+#### Best Budget Gaming Mouse
 
-[Euler's formula](https://en.wikipedia.org/wiki/Euler%27s_formula) relates the  complex exponential function to the trigonometric functions.
+## 3. Logitech G502 Lightspeed
+#### Best Wireless Gaming Mouse
 
-$$ e^{i\theta}=\cos(\theta)+i\sin(\theta) $$
+## 4. Razer Basilisk Ultimate
+#### Best FPS Gaming Mouse
 
-The [Euler-Lagrange](https://en.wikipedia.org/wiki/Lagrangian_mechanics) differential equation is the fundamental equation of calculus of variations.
-
-$$ \frac{\mathrm{d}}{\mathrm{d}t} \left ( \frac{\partial L}{\partial \dot{q}} \right ) = \frac{\partial L}{\partial q} $$
-
-The [Schrödinger equation](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation) describes how the quantum state of a quantum system changes with time.
-
-$$ i\hbar\frac{\partial}{\partial t} \Psi(\mathbf{r},t) = \left [ \frac{-\hbar^2}{2\mu}\nabla^2 + V(\mathbf{r},t)\right ] \Psi(\mathbf{r},t) $$
-
-## Code
-
-Embed code by putting `{{ "{% highlight language " }}%}` `{{ "{% endhighlight " }}%}` blocks around it. Adding the parameter `linenos` will show source lines besides the code.
-
-{% highlight c %}
-
-static void asyncEnabled(Dict* args, void* vAdmin, String* txid, struct Allocator* requestAlloc)
-{
-    struct Admin* admin = Identity_check((struct Admin*) vAdmin);
-    int64_t enabled = admin->asyncEnabled;
-    Dict d = Dict_CONST(String_CONST("asyncEnabled"), Int_OBJ(enabled), NULL);
-    Admin_sendMessage(&d, txid, admin);
-}
-
-{% endhighlight %}
-
-## Gists
-
-With the `jekyll-gist` plugin, which is preinstalled on Github Pages, you can embed gists simply by using the `gist` command:
-
-<script src="https://gist.github.com/5555251.js?file=gist.md"></script>
-
-## Images
-
-Upload an image to the *assets* folder and embed it with `![title](/assets/name.jpg))`. Keep in mind that the path needs to be adjusted if Jekyll is run inside a subfolder.
-
-A wrapper `div` with the class `large` can be used to increase the width of an image or iframe.
-
-![Flower](https://user-images.githubusercontent.com/4943215/55412447-bcdb6c80-5567-11e9-8d12-b1e35fd5e50c.jpg)
-
-[Flower](https://unsplash.com/photos/iGrsa9rL11o) by Tj Holowaychuk
-
-## Embedded content
-
-You can also embed a lot of stuff, for example from YouTube, using the `embed.html` include.
-
-{% include embed.html url="https://www.youtube.com/embed/_C0A5zX-iqM" %}
-
+## 5. Razer Viper Mini
+#### Best Small Gaming Mouse
