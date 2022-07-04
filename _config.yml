@@ -1,4 +1,4 @@
-title: "TOPCatch"
+title: "TopCatch"
 author: "PJ"
 description: "Best TopCatch 2022 Picks"
 permalink: /:title/
@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: Home, icon: cart-shopping, url: "index.html"}
+  - {title: Home, icon: shopping-cart, url: "/index.html"}
   
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: ""}
